@@ -1,0 +1,30 @@
+Ajuda sobre comando:
+git {comando} --help
+
+Clonar um Repositório dentro de um Diretório Existente:
+git clone {link}
+
+Iniciar um Repositório dentro de um Diretório Existente:
+git init
+
+Primeira versão:
+git add .
+
+Verificar estados dos arquivos no Diretório:
+git status
+
+Verificar mudanças feitas nos arquivos no Diretório:
+git diff
+
+Armazenar conteúdo do Diretório no GitHub:
+git commit -a -m {"Comentário"}
+
+Transferir arquivos dentro de um Diretório Existente para um Repositório:
+git push origin main
+
+Remover um arquivo do Git:
+got rm -f {arquivo}
+
+Mover arquivos no Git:
+git mv {arquivo_origem} {arquivo_destino}
+
