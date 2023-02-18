@@ -5,4 +5,4 @@ Seguindo as aulas da DIO.
 
 
 ## Links Úteis
-[Sintaxe Básica Markdown](htps://www.markdownguie.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
